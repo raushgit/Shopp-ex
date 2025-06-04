@@ -13,11 +13,15 @@ const Home = () => {
           />
           <div className="card-img-overlay d-flex align-items-center">
             <div className="container">
-              <h5 className="card-title fs-1 text fw-lighter">New Season Arrivals</h5>
-              <p className="card-text fs-5 d-none d-sm-block ">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+              <h5
+  className="card-title fs-1 text fw-lighter"
+  style={{ color: "bisque", textShadow: "2px 2px 4px rgba(0,0,0,0.5)" }}
+>
+  New Season Arrivals
+</h5>
+              <p className="card-text fs-5 d-none d-sm-block "
+              style={{ color: "beige", textShadow: "2px 2px 4px rgba(0,0,0,0.5)" }}>
+                Stay Tuned for the latest trends and styles. Discover our new collection that brings you the best of fashion and comfort. Whether you're looking for casual wear or something more formal, we have it all. Don't miss out on our exclusive offers and limited-time deals!
               </p>
             </div>
           </div>
