@@ -9,9 +9,9 @@ A Ecommerce Website made with React.js Framework.
 - Fully Responsive
 
 
-## Screenshots
+## Preview
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+!(https://raushgit.github.io/PORDIGY_FS_03/)
 
 
 
