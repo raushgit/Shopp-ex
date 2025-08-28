@@ -11,7 +11,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Preview
 
-!(https://raushgit.github.io/PORDIGY_FS_03/)
+!(https://raushgit.github.io/Shopp-ex/))
 
 
 
