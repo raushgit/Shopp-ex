@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Footer, Navbar } from "../components"; 
+import { Footer, Navbar } from "../components";
 
 const Login = () => {
   return (
