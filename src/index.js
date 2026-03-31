@@ -9,7 +9,7 @@ import {
   Home,
   Product,
   Products,
-  AboutPage,
+  AboutPage, 
   ContactPage,
   Cart,
   Login,
